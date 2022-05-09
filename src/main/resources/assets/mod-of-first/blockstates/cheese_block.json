@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mod-of-first:block/cheese_block"
+    }
+  }
+}
