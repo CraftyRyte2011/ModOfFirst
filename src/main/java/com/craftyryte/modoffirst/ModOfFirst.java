@@ -1,5 +1,6 @@
 package com.craftyryte.modoffirst;
 
+import com.craftyryte.block.ModBlocks;
 import com.craftyryte.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -12,6 +13,7 @@ public class ModOfFirst implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
