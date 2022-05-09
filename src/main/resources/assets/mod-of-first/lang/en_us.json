@@ -1,5 +1,7 @@
 {
   "item.mod-of-first.cheese": "Cheese",
   "item.mod-of-first.spice": "Spice!",
-  "item.mod-of-first.dowsing_rod": "Dowsing rod"
+  "item.mod-of-first.dowsing_rod": "Dowsing rod",
+
+  "block.mod-of-first.cheese_block": "Cheese Block"
 }
